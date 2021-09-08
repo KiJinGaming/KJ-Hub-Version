@@ -1,1 +1,1 @@
-{"Version":"1.6", "Log":["+ More info about 'Time Trial' in webhook.", "+ Added 'Send When Raid Occur' option for webhook."]}
+{"Version":"1.7", "Log":["+ Fixed 'Auto Time Trial' not working with 'Auto Raid'.", "+ Electron compatibility."]}
